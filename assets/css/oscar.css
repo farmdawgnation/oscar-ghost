@@ -105,6 +105,10 @@ h1, h2, h3, h4, h5, h6 {
     padding-bottom: 1rem;
 }
 
+.home-template .masthead-title small {
+    display: block;
+}
+
 @keyframes mastheadShrink{
     from    {  font-size: 150%;
                padding-top:    1rem;
